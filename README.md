@@ -1,4 +1,4 @@
-# Adidas Sales Analysis Dashboard (Power BI)
+# Adidas Sales Analysis Dashboard
 
 ##  Project Overview
 
